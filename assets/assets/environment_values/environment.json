@@ -1,0 +1,9 @@
+{
+  "blockExplorerURL": "https://polygonscan.com/",
+  "apiBaseUrl": "http://localhost:8080",
+  "tokenOneBackendURL": "http://localhost:8080",
+  "PlatformWalletAddress": "0x8aBFAE8547EA723Ed8C21CA55386Ffe382aF9277",
+  "BRLTokenAddress": "0x028e8104c7D13e4A7EDbD2Ca5fFAAA390b42000c",
+  "baseURLAsaas": "https://api.asaas.com",
+  "chaveAleatoreaPIXAssas": "a7baf537-eed0-4de2-bef3-4500e7c50f91"
+}
