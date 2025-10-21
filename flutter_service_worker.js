@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ad7b6e8b4d2ab68db21a910f3f7e3174
 "assets/AssetManifest.bin.json": "1c3fa64ec5d67b0874492c9d669fe273",
 "assets/AssetManifest.json": "d05d3d499a9fec8a2c804c278ec53c09",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/assets/environment_values/environment.json": "282f95f02033f0fbb8397bf43b867ea6",
+"assets/assets/environment_values/environment.json": "89714032c5c4004aa92208343913c987",
 "assets/assets/environment_values/environment_local.json": "441cfe81cfa1b4ad02b029115781989e",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/adaptive_foreground_icon.png": "dd499d005f552fea4c4033d9be01e819",
@@ -61,7 +61,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ad7b6e8b4d2ab68db21a910f3f7e3174
 "index.html": "224b963318277449efd2ac3825e8e973",
 "/": "224b963318277449efd2ac3825e8e973",
 "logo_basic.png": "7a388271cc992048a479873ad8230ed9",
-"main.dart.js": "809c04426d56aedeb85bb1ef1992c7e6",
+"main.dart.js": "2e25e80c044e8f664e8c75b0c5d6b77b",
 "manifest.json": "2572823d721dfe78da2ba59ad18ec4b2",
 "version.json": "58a6c78656eb9339c978eb92ba8f4b62"};
 // The application shell files that are downloaded before a service worker can

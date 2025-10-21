@@ -1,7 +1,7 @@
 {
   "blockExplorerURL": "https://polygonscan.com/",
-  "apiBaseUrl": "http://localhost:8080",
-  "tokenOneBackendURL": "http://localhost:8080",
+  "apiBaseUrl": "https://flutter-backend-mvp-199313163382.southamerica-east1.run.app",
+  "tokenOneBackendURL": "https://flutter-backend-mvp-199313163382.southamerica-east1.run.app",
   "PlatformWalletAddress": "0x8aBFAE8547EA723Ed8C21CA55386Ffe382aF9277",
   "BRLTokenAddress": "0x028e8104c7D13e4A7EDbD2Ca5fFAAA390b42000c",
   "baseURLAsaas": "https://api.asaas.com",
